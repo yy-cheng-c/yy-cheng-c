@@ -27,7 +27,7 @@
 </div>
 
 ## Stats 📈
-[![Top Langs](https://github-readme-stats-eta-five-37.vercel.app/api/top-langs/?username=yy-cheng-c&layout=donut&theme=dracula&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-eta-five-37.vercel.app/api/top-langs/?username=yy-cheng-c&layout=donut&theme=dracula&langs_count=6&exclude_repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Let's connect! 🌎
