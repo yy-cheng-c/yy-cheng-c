@@ -4,12 +4,13 @@
 - 🌱 I’m currently System Analysis, Network Programming, COBOL, Android Programming, and OOP with Design Patterns.
 - 💞️ I’m looking to collaborate on projects to continue learning about programming ☕🐍💻.
 - 📫 How to reach me: chen0951@algonquinlive.com.
-- ⚡ I love P.G. Wodehouse's Jeeves Series and N. K. Jemisin's The Broken Earth Trilogy.
+- ⚡ I love 📖 novels and play a wide range of 🎮 games. My favorite novels are P.G. Wodehouse's Jeeves Series and N. K. Jemisin's The Broken Earth Trilogy.
 <div align="center">
 <img src="https://github.com/yy-cheng-c/yy-cheng-c/assets/155518309/15bc0070-4860-47ef-bd8a-0e909c1d92a6" height=120>
 &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/yy-cheng-c/yy-cheng-c/assets/155518309/3f640ca3-5038-489c-bfa8-20afd77bd836" height=125>
 </div>
+
 
 ## Languages and tools I know (and am passionate about&nbsp;<img src="https://github.com/yy-cheng-c/yy-cheng-c/assets/155518309/4465f0b7-fa1a-4097-a863-5c301041048a" height=30>)
 <div align="center">
