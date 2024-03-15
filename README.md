@@ -1,4 +1,4 @@
-# 👋 Hello, I’m Mia
+# 👋 Hello, I’m Yiyi
 - I'm a Computer Programming student, and an aspiring full-stack developer.
 - 👀 I really enjoy coding and the problem-solving aspects it offers.
 - 🌱 I’m currently System Analysis, Network Programming, COBOL, Android Programming, and OOP with Design Patterns.
